@@ -1,5 +1,5 @@
 ## Hi there, I'm Krishna <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
-
+<img src="https://github.com/krishn404/krishn404/blob/main/header.svg" alt="my banner"></a>
 
 ## ⚡ About Me                                                                 
 - 📈 I’m currently pursuing BCA 
